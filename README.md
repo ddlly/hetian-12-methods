@@ -2,7 +2,7 @@
 
 一个面向 Codex 和其他兼容 Agent Skills 规范的创意思考 skill，将“和田十二法”转化为适用于项目开发、功能设计、流程改进和技术方案发散的结构化工作流。
 
-“和田十二法”是一套创新思维方法，包含加、减、扩、缩、变、改、联、学、代、搬、反、定等共12种启发创意的思考角度。
+“和田十二法”是一套创新思维方法，包含加、减、扩、缩等12种启发创意的思考角度。
 
 English documentation is available in the [English section](#english).
 
